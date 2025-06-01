@@ -2,7 +2,7 @@ import React from 'react'
 
 const About = () => {
   return (
-  <div className='w-full h-full flex flex-col justify-center items-start p-10 bg-gray-100'>
+  <div className='w-full h-full flex flex-col justify-center items-start p-5'>
     <h1 className='text-2xl font-bold'>About Us</h1>
     <p>
       Welcome to ProductStore, your one-stop destination for all your shopping needs! We are passionate about bringing you the best products at unbeatable prices, with a seamless and enjoyable online shopping experience.
