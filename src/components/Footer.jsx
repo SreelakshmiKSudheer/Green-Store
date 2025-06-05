@@ -5,7 +5,7 @@ const Footer = () => {
 
 return (
   <footer className="px-5 py-8 mt-8">
-    <div className="max-w-6xl mx-auto flex flex-wrap justify-between">
+    <div className="max-w-6xl  flex flex-wrap justify-between">
       <div className="mb-6">
         <h3 className="text-xl font-bold">Green Store</h3>
         <p className="text-sm mt-2">&copy; {new Date().getFullYear()} Green Store. All rights reserved.</p>

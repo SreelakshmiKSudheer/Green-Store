@@ -28,7 +28,7 @@ function App() {
   }
   return (
     <>
-      <div className='flex justify-start items-center h-[10% flex-wrap py-5 px-35 gap-5 bg-white'>
+      <div className='flex justify-center items-center h-[10% flex-wrap py-5 gap-5 bg-white'>
         {products.map(product => (
           <Card key={product.id} {...product} />
         ))}
