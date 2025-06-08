@@ -16,7 +16,6 @@ A simple and fun frontend web app that displays products using [FakeStoreAPI](ht
 - View all products on the homepage
 - Click on any product card for detailed view
 - Add items to the cart
-- Search for products using the search bar
 
 ## 🧑‍💻 Getting Started
 
